@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginTest</string>
+    <string name="empty_password">Passoword can\'t be empty</string>
+</resources>

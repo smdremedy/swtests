@@ -1,0 +1,7 @@
+{
+  "port" : 8000, // port at which server will be started
+  "requests" :
+  [
+    //array of objects representing requests with responses
+  ]
+}
